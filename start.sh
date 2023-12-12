@@ -3,4 +3,4 @@ git clone https://github.com/Badnamji /Badnam_noor
 cd /Badnam_noor
 pip3 install -r requirements.txt
 echo "Starting Bot...."
-python3 bash start
+bash start
